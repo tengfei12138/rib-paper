@@ -2,6 +2,8 @@
 
 **Sifan Chen, Chenning Wu, Yinan Jing, Wentao Wu, Zhenying He, Kai Zhang, and X. Sean Wang**
 
+[Paper PDF](./RIB.pdf)
+
 ## Citation
 ```bibtex
 @article{chen2026rib,
