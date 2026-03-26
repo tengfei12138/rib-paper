@@ -1,5 +1,3 @@
-# rib-paper
-
 # RIB: Robust Learning-based Index Benefit Estimation
 
 **Sifan Chen, Chenning Wu, Yinan Jing, Wentao Wu, Zhenying He, Kai Zhang, and X. Sean Wang**
